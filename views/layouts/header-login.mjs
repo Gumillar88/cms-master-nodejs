@@ -10,7 +10,7 @@ const header = `
     <head>
         <base href="/">
         <meta charset="utf-8"/>
-        <title>FFCMS | Content Management System</title>
+        <title>CMS | Content Management System</title>
         <meta name="description" content="Singin page example"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
