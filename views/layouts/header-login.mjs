@@ -22,6 +22,8 @@ const header = `
         <link href="${assetsPath}css/style.bundle.css?v=7.0.6" rel="stylesheet" type="text/css"/>
         <link href="${assetsPath}css/themes/layout/header/base/light.css?v=7.0.6" rel="stylesheet" type="text/css"/>
         <link rel="shortcut icon" href="${assetsPath}media/logos/favicon.ico"/>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
     </head>
     <body id="kt_body" class="header-fixed header-mobile-fixed subheader-enabled subheader-fixed aside-enabled aside-fixed aside-minimize-hoverable page-loading">
 `;
