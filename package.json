@@ -2,10 +2,11 @@
   "name": "CMS Master",
   "version": "1.0.0",
   "description": "CMS and API Master",
-  "main": "server.mjs",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.mjs"
+    "start": "node server.js",
+    "build": "echo 'No build step defined'"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
